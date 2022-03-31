@@ -8,7 +8,7 @@ Telegramm - [@xenusi](http://t-do.ru/xenusi "Telegram channel")
 | :-: | :--------------------------------------------- | :-------: | :----: | :-: | :------------------------------------------- | :-------: | :----: |
 | 1   | [Libft](../../../libft_42)                     |   ✅      |   ✅   | 8   | [minishell](../../../minishell_42)            |   ✅      |   ✅   |
 | 2   | [get_next_line](../../../get_next_line)        |   ✅      |   ✅   | 9   | [cub3d](../../../cub3d_42)                    |   ✅      |   ✅   | 
-| 3   | [ft_printf](../../../printf_42)                |   ✅      |   ✅   | 11  | [ft_irc](../../../ft_irc.      )              |   ✅      |  ✅    |
+| 3   | [ft_printf](../../../printf_42)                |   ✅      |   ✅   | 11  | [ft_irc](../../../ft_irc      )              |   ✅      |  ✅    |
 | 4   | [pipex](../../../pipex_42)                     |   ✅      |   ✅   |
 | 5   | [push_swap](../../../push_swap_42)             |   ✅      |   ✅   | 
 | 6   | [so_long](../../../so_long)                    |   ✅      |   ✅   |
