@@ -1,16 +1,15 @@
-### Hi there 👋
+# hzona 21 school (Ecole 42) student
+Telegramm - [@xenusi](http://t-do.ru/xenusi "Telegram channel")
 
-<!--
-**maminparen/maminparen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm student of Kazan School21
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 42cursus Progress
+| No  | Project                                        | Mandatory | Bonus  | No  | Project                                      | Mandatory | Bonus  |
+| :-: | :--------------------------------------------- | :-------: | :----: | :-: | :------------------------------------------- | :-------: | :----: |
+| 1   | [Libft](../../../libft_42)                     |   ✅      |   ✅   | 8   | [minishell](../../../minishell_42)            |   ✅      |   ✅   |
+| 2   | [get_next_line](../../../get_next_line)        |   ✅      |   ✅   | 9   | [cub3d](../../../cub3d_42)                    |   ✅      |   ✅   | 
+| 3   | [ft_printf](../../../printf_42)                |   ✅      |   ✅   | 11  | [ft_irc](../../../ft_irc.      )              |   ✅      |  ✅    |
+| 4   | [pipex](../../../pipex_42)                     |   ✅      |   ✅   |
+| 5   | [push_swap](../../../push_swap_42)             |   ✅      |   ✅   | 
+| 6   | [so_long](../../../so_long)                    |   ✅      |   ✅   |
+| 7   | [philosophers](../../../philosophers_42)       |   ✅      |   ✅   |
