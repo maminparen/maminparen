@@ -1,4 +1,4 @@
-# hzona 21 school (Ecole 42) student
+# hzona Alumni(21 level) Ecole 42 France and School 21
 Telegramm - [@xenusi](http://t-do.ru/xenusi "Telegram channel")
 
 ### I'm student of Kazan School21
